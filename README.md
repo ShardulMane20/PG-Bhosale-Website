@@ -6,6 +6,7 @@ This is a web-based project developed for PG Bhosale Farm Producer Company. It i
 - Feedback form submission
 - Dynamic footer
 - Responsive UI
+- And much more
 
 🛠️ Tech Stack
 - PHP
