@@ -12,7 +12,7 @@ This is a web-based project developed for PG Bhosale Farm Producer Company. It i
 - PHP
 - HTML5 & CSS3
 - JavaScript
-- MySQL (if used)
+- MySQL
 
 🚀 How to Run Locally
 1. Clone this repository
